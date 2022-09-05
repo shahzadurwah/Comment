@@ -1,6 +1,6 @@
 <template>
-  <div class="row m-5">
-    <div class="col-12">
+  <div class="row">
+    <div class="col-sm-12 col-md-10">
         <h1>Quotes Added</h1>
       <div class="progress">
         <div
